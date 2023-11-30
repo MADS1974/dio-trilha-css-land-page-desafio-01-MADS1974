@@ -1,5 +1,5 @@
 <h1 align="center">
-  Criando sua Primeira Landing Page com HTML e CSS
+  Criando uma Landing Page com HTML e CSS
 </h1>
 
 <p align="center">
